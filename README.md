@@ -1,0 +1,1 @@
+# galleoncoin_miner
